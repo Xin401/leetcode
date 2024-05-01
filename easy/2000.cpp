@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 
 class Solution
@@ -16,9 +15,11 @@ public:
         return prefix + suffix;
     }
 };
-
 int main()
 {
     Solution s;
     cout << s.reversePrefix("abcdef", 'd') << endl;
+    cout << s.reversePrefix("xyxzxe", 'z') << endl;
+    cout << s.reversePrefix("abcd", 'z') << endl;
+    return 0;
 }
