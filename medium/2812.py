@@ -1,7 +1,9 @@
 from typing import List
 from collections import deque
 import heapq
-
+# 1. Find the minimum distance from each cell to the nearest 1 by BFS
+# 2. Use a priority queue to find the maximum minimum distance from the start to the end
+# 3. Return the maximum minimum distance
 class Solution:
     def __init__(self) -> None:
         self.directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
