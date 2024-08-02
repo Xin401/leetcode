@@ -10,7 +10,6 @@ class Solution:
             right_bigger = len([x for x in rating[i+1:] if x > rating[i]])
             res += left_smaller * right_bigger + left_bigger * right_smaller
             print(left_smaller, left_bigger, right_smaller, right_bigger)
-        print(res)
         return res
 
 if __name__ == "__main__":
