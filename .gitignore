@@ -1,3 +1,7 @@
 **/*
 !**/*.cpp
+!easy
+!medium
+!hard
+!algorithm/array_and_matric
 !**/*.py
