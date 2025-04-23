@@ -1,7 +1,3 @@
 **/*
 !**/*.cpp
-!easy
-!medium
-!hard
-!algorithm/*/
 !**/*.py
