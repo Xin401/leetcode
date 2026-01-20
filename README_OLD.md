@@ -1,1 +1,0 @@
-Daily leetcode practices
