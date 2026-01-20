@@ -16,25 +16,49 @@
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [C++](./problems/0059/solution.cpp) | Array, Matrix, Simulation |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [C++](./problems/0061/solution.cpp) | Linked List, Two Pointers |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [C++](./problems/0074/solution.cpp) | Array, Binary Search, Matrix |
+| 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [C++](./problems/0081/solution.cpp) | Array, Binary Search |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [C++](./problems/0083/solution.cpp) | Linked List |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [C++](./problems/0094/solution.cpp) | Stack, Tree, Depth-First Search, Binary Tree |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [C++](./problems/0121/solution.cpp) | Array, Dynamic Programming |
+| 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [C++](./problems/0122/solution.cpp) | Array, Dynamic Programming, Greedy |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [C++](./problems/0128/solution.cpp) / [Python](./problems/0128/solution.py) | Array, Hash Table, Union-Find |
+| 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [C++](./problems/0138/solution.cpp) | Hash Table, Linked List |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) | Hash Table, Linked List, Two Pointers |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
 | 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](./problems/0165/solution.py) | Two Pointers, String |
+| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [C++](./problems/0171/solution.cpp) | Math, String |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C++](./problems/0206/solution.cpp) | Linked List, Recursion |
+| 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [C++](./problems/0216/solution.cpp) | Array, Backtracking |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](./problems/0217/solution.cpp) / [Python](./problems/0217/solution.py) | Array, Hash Table, Sorting |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [C++](./problems/0232/solution.cpp) | Stack, Design, Queue |
+| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [C++](./problems/0237/solution.cpp) | Linked List |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [C++](./problems/0238/solution.cpp) / [Python](./problems/0238/solution.py) | Array, Prefix Sum |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](./problems/0242/solution.cpp) / [Python](./problems/0242/solution.py) | Hash Table, String, Sorting |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Python](./problems/0260/solution.py) | Array, Bit Manipulation |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](./problems/0268/solution.cpp) | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [C++](./problems/0271/solution.cpp) / [Python](./problems/0271/solution.py) | Array, String, Design |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [C++](./problems/0287/solution.cpp) | Array, Two Pointers, Binary Search, Bit Manipulation |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [C++](./problems/0310/solution.cpp) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
+| 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [C++](./problems/0338/solution.cpp) | Dynamic Programming, Bit Manipulation |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C++](./problems/0344/solution.cpp) | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [C++](./problems/0347/solution.cpp) / [Python](./problems/0347/solution.py) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
+| 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [C++](./problems/0410/solution.cpp) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Python](./problems/0506/solution.py) | Array, Sorting, Heap (Priority Queue) |
+| 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Medium | [C++](./problems/0606/solution.cpp) | String, Tree, Depth-First Search, Binary Tree |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Python](./problems/0648/solution.py) | Array, Hash Table, String, Trie |
+| 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [C++](./problems/0682/solution.cpp) | Array, Stack, Simulation |
+| 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [C++](./problems/0700/solution.cpp) | Tree, Binary Search Tree, Binary Tree |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [C++](./problems/0703/solution.cpp) | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [C++](./problems/0704/solution.cpp) | Array, Binary Search |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [C++](./problems/0705/solution.cpp) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [C++](./problems/0739/solution.cpp) / [Python](./problems/0739/solution.py) | Array, Stack, Monotonic Stack |
+| 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [C++](./problems/0766/solution.cpp) | Array, Matrix |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | Medium | [C++](./problems/0791/solution.cpp) | Hash Table, String, Sorting |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Python](./problems/0802/solution.py) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
+| 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [C++](./problems/0814/solution.cpp) | Tree, Depth-First Search, Binary Tree |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) | Array, Binary Search |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
