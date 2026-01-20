@@ -1,7 +1,7 @@
 # LeetCode Practice
 
-| ID | Title | Difficulty | Solution |
-|:---|:---|:---|:---|
+| ID | Title | Difficulty | Solution | Topic |
+|:---|:---|:---|:---:|:---|
 | 0001 | Problem 1 | - |  [Python](./problems/0001/solution.py) /  [C++](./problems/0001/solution.cpp) |
 | 0020 | Problem 20 | - |  [Python](./problems/0020/solution.py) /  [C++](./problems/0020/solution.cpp) |
 | 0022 | Problem 22 | - |  [Python](./problems/0022/solution.py) /  [C++](./problems/0022/solution.cpp) |
