@@ -1,8 +1,1 @@
-**/*
-!easy
-!medium
-!hard
-!algorithm/
-!algorithm/*/
-!**/*.py
-!**/*.cpp
+.venv
