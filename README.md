@@ -61,30 +61,43 @@
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [C++](./problems/0814/solution.cpp) | Tree, Depth-First Search, Binary Tree |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) | Array, Binary Search |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) | Linked List, Two Pointers |
+| 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
+| 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [C++](./problems/0923/solution.cpp) | Array, Hash Table, Two Pointers, Sorting, Counting |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium | [C++](./problems/0926/solution.cpp) | String, Dynamic Programming |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [C++](./problems/0930/solution.cpp) | Array, Hash Table, Sliding Window, Prefix Sum |
+| 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [C++](./problems/0931/solution.cpp) | Array, Dynamic Programming, Matrix |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [C++](./problems/0944/solution.cpp) | Array, String |
+| 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Medium | [C++](./problems/0967/solution.cpp) | Backtracking, Breadth-First Search |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [C++](./problems/0997/solution.cpp) | Array, Hash Table, Graph Theory |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium | [C++](./problems/1035/solution.cpp) | Array, Dynamic Programming |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [C++](./problems/1046/solution.cpp) | Array, Heap (Priority Queue) |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Medium | [Python](./problems/1110/solution.py) | Array, Hash Table, Tree, Depth-First Search, Binary Tree |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [C++](./problems/1128/solution.cpp) / [Python](./problems/1128/solution.py) | Array, Hash Table, Counting |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [C++](./problems/1137/solution.cpp) | Math, Dynamic Programming, Memoization |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Medium | [Python](./problems/1208/solution.py) | String, Binary Search, Sliding Window, Prefix Sum |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium | [Python](./problems/1219/solution.py) | Array, Backtracking, Matrix |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | [C++](./problems/1232/solution.cpp) | Array, Math, Geometry |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | [C++](./problems/1260/solution.cpp) | Array, Matrix, Simulation |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard | [C++](./problems/1289/solution.cpp) | Array, Dynamic Programming, Matrix |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [C++](./problems/1319/solution.cpp) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Medium | [Python](./problems/1325/solution.py) | Tree, Depth-First Search, Binary Tree |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [C++](./problems/1337/solution.cpp) | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | [Python](./problems/1380/solution.py) | Array, Matrix |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | [Python](./problems/1395/solution.py) | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | [Python](./problems/1404/solution.py) | String, Bit Manipulation, Simulation |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [C++](./problems/1457/solution.cpp) | Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | [C++](./problems/1498/solution.cpp) | Array, Two Pointers, Binary Search, Sorting |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy | [C++](./problems/1502/solution.cpp) | Array, Sorting |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | [Python](./problems/1530/solution.py) | Tree, Depth-First Search, Binary Tree |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | [C++](./problems/1544/solution.cpp) | String, Stack |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](./problems/1550/solution.py) | Array |
+| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | Medium | [C++](./problems/1663/solution.cpp) | String, Greedy |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [C++](./problems/1700/solution.cpp) | Array, Stack, Queue, Simulation |
+| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [C++](./problems/1721/solution.cpp) | Linked List, Two Pointers |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Python](./problems/1863/solution.py) | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration |
+| 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium | [C++](./problems/1996/solution.cpp) | Array, Stack, Greedy, Sorting, Monotonic Stack |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | [C++](./problems/2000/solution.cpp) | Two Pointers, String, Stack |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium | [C++](./problems/2101/solution.cpp) | Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium | [Python](./problems/2134/solution.py) | Array, Sliding Window |
