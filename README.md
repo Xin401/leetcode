@@ -81,6 +81,7 @@
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | [C++](./problems/1232/solution.cpp) | Array, Math, Geometry |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | [C++](./problems/1260/solution.cpp) | Array, Matrix, Simulation |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard | [C++](./problems/1289/solution.cpp) | Array, Dynamic Programming, Matrix |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [C++](./problems/1290/solution.cpp) | Linked List, Math |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [C++](./problems/1319/solution.cpp) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Medium | [Python](./problems/1325/solution.py) | Tree, Depth-First Search, Binary Tree |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [C++](./problems/1337/solution.cpp) | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix |
