@@ -14,6 +14,8 @@
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [C++](./problems/0054/solution.cpp) | Array, Matrix, Simulation |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [C++](./problems/0058/solution.cpp) | String |
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [C++](./problems/0059/solution.cpp) | Array, Matrix, Simulation |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [C++](./problems/0061/solution.cpp) | Linked List, Two Pointers |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [C++](./problems/0074/solution.cpp) | Array, Binary Search, Matrix |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [C++](./problems/0128/solution.cpp) / [Python](./problems/0128/solution.py) | Array, Hash Table, Union-Find |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
