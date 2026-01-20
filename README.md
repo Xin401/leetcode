@@ -1,7 +1,5 @@
 # LeetCode Practice
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Xin401?theme=dark&font=Open%20Sans&ext=heatmap)
-
 | ID | Title | Difficulty | Solution | Topic |
 |:---|:---|:---|:---|:---|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [C++](./problems/0001/solution.cpp) / [Python](./problems/0001/solution.py) | Array, Hash Table |
