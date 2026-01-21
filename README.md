@@ -118,5 +118,6 @@
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium | [C++](./problems/2997/solution.cpp) | Array, Bit Manipulation |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | [Python](./problems/3016/solution.py) | Hash Table, String, Greedy, Sorting, Counting |
 | 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [Python](./problems/3075/solution.py) | Array, Greedy, Sorting |
+| 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | Medium | [Python](./problems/3315/solution.py) | Array, Bit Manipulation |
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | [C++](./problems/3342/solution.cpp) / [Python](./problems/3342/solution.py) | Array, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | [C++](./problems/3392/solution.cpp) / [Python](./problems/3392/solution.py) | Array |
