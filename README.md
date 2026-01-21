@@ -103,7 +103,6 @@
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | [C++](./problems/2000/solution.cpp) | Two Pointers, String, Stack |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium | [C++](./problems/2101/solution.cpp) | Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium | [Python](./problems/2134/solution.py) | Array, Sliding Window |
-| 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | [C++](./problems/2187/solution.cpp) | Array, Binary Search |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | [C++](./problems/2215/solution.cpp) | Array, Hash Table |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | Medium | [C++](./problems/2279/solution.cpp) | Array, Greedy, Sorting |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | [C++](./problems/2302/solution.cpp) / [Python](./problems/2302/solution.py) | Array, Binary Search, Sliding Window, Prefix Sum |
