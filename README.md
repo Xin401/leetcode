@@ -5,7 +5,7 @@
 |:---|:---|:---|:---|:---|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [C++](./problems/0001/solution.cpp) / [Python](./problems/0001/solution.py) | Array, Hash Table |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [C++](./problems/0002/solution.cpp) | Linked List, Math, Recursion |
-| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [C++](./problems/0011/solution.cpp) / [Python](./problems/0011/solution.py) | Array, Two Pointers, Greedy |
+| 0011 | [Unknown](https://leetcode.com/problems/container-with-most-water/) | - | [C++](./problems/0011/solution.cpp) / [Python](./problems/0011/solution.py) |  |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
@@ -87,6 +87,7 @@
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Medium | [Python](./problems/1325/solution.py) | Tree, Depth-First Search, Binary Tree |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [C++](./problems/1337/solution.cpp) | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | [Python](./problems/1380/solution.py) | Array, Matrix |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | [Python](./problems/1382/solution.py) | Divide and Conquer, Greedy, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | [Python](./problems/1395/solution.py) | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | [Python](./problems/1404/solution.py) | String, Bit Manipulation, Simulation |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [C++](./problems/1457/solution.cpp) | Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
