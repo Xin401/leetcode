@@ -8,7 +8,6 @@ public:
     int minOperations(vector<vector<int>>& grid, int x) {
         if (grid.size() == 1 && grid[0].size() == 1) return 0;
         int rmd = grid[0][0] % x;
-        long long sum = 0;
         int res = 0;
         vector<int> nums;
         for(const auto& vec : grid) {
@@ -17,10 +16,8 @@ public:
                     return -1;
                 }
                 nums.push_back(n);
-                sum += n;
             }
         }
-        double avg = sum / (double)nums.size();
         sort(nums.begin(), nums.end());
         int target = nums[nums.size()/2];
         // for (int i = 0; i < nums.size() - 1; i++) {
