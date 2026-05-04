@@ -10,6 +10,7 @@
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [C++](./problems/0036/solution.cpp) / [Python](./problems/0036/solution.py) | Array, Hash Table, Matrix |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [C++](./problems/48/solution.cpp) / [Python](./problems/48/solution.py) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [C++](./problems/0049/solution.cpp) / [Python](./problems/0049/solution.py) | Array, Hash Table, String, Sorting |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [C++](./problems/0053/solution.cpp) | Array, Divide and Conquer, Dynamic Programming |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [C++](./problems/0054/solution.cpp) | Array, Matrix, Simulation |
