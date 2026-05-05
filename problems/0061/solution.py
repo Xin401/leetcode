@@ -14,8 +14,8 @@ class Solution:
             array.append(ptr)
             ptr = ptr.next
         m = len(array)
-        if k == 0 or k % m == 0: return head;
-        k %= m;
+        if k == 0 or k % m == 0: return head
+        k %= m
         array[m - 1].next = array[0]
         array[m - k - 1].next = None
         return array[m - k]
