@@ -44,7 +44,7 @@
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Python](./problems/0260/solution.py) | Array, Bit Manipulation |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](./problems/0268/solution.cpp) | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [C++](./problems/0271/solution.cpp) / [Python](./problems/0271/solution.py) | Array, String, Design |
-| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [C++](./problems/0287/solution.cpp) | Array, Two Pointers, Binary Search, Bit Manipulation |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [C++](./problems/0287/solution.cpp) / [Python](./problems/0287/solution.py) | Array, Two Pointers, Binary Search, Bit Manipulation |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [C++](./problems/0310/solution.cpp) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [C++](./problems/0338/solution.cpp) | Dynamic Programming, Bit Manipulation |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C++](./problems/0344/solution.cpp) | Two Pointers, String |
