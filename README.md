@@ -29,6 +29,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
+| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](./problems/0153/solution.cpp) | Array, Binary Search |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
 | 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](./problems/0165/solution.py) | Two Pointers, String |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [C++](./problems/0171/solution.cpp) | Math, String |
