@@ -17,7 +17,7 @@
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [C++](./problems/0058/solution.cpp) | String |
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [C++](./problems/0059/solution.cpp) | Array, Matrix, Simulation |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [C++](./problems/0061/solution.cpp) / [Python](./problems/0061/solution.py) | Linked List, Two Pointers |
-| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [C++](./problems/0074/solution.cpp) | Array, Binary Search, Matrix |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [C++](./problems/0074/solution.cpp) / [Python](./problems/0074/solution.py) | Array, Binary Search, Matrix |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [C++](./problems/0081/solution.cpp) | Array, Binary Search |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [C++](./problems/0083/solution.cpp) | Linked List |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
@@ -54,7 +54,7 @@
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [C++](./problems/0682/solution.cpp) | Array, Stack, Simulation |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [C++](./problems/0700/solution.cpp) | Tree, Binary Search Tree, Binary Tree |
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [C++](./problems/0703/solution.cpp) | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |
-| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [C++](./problems/0704/solution.cpp) | Array, Binary Search |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [C++](./problems/0704/solution.cpp) / [Python](./problems/0704/solution.py) | Array, Binary Search |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [C++](./problems/0705/solution.cpp) | Array, Hash Table, Linked List, Design, Hash Function |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [C++](./problems/0739/solution.cpp) / [Python](./problems/0739/solution.py) | Array, Stack, Monotonic Stack |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [C++](./problems/0766/solution.cpp) | Array, Matrix |
@@ -62,7 +62,7 @@
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Python](./problems/0802/solution.py) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [C++](./problems/0814/solution.cpp) | Tree, Depth-First Search, Binary Tree |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
-| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) | Array, Binary Search |
+| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) / [Python](./problems/0875/solution.py) | Array, Binary Search |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) | Linked List, Two Pointers |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
