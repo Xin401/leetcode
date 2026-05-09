@@ -9,6 +9,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](./problems/0033/solution.cpp) | Array, Binary Search |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [C++](./problems/0036/solution.cpp) / [Python](./problems/0036/solution.py) | Array, Hash Table, Matrix |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [C++](./problems/0048/solution.cpp) / [Python](./problems/0048/solution.py) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [C++](./problems/0049/solution.cpp) / [Python](./problems/0049/solution.py) | Array, Hash Table, String, Sorting |
