@@ -11,6 +11,7 @@
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](./problems/0033/solution.cpp) | Array, Binary Search |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [C++](./problems/0036/solution.cpp) / [Python](./problems/0036/solution.py) | Array, Hash Table, Matrix |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [C++](./problems/0039/solution.cpp) | Array, Backtracking |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [C++](./problems/0048/solution.cpp) / [Python](./problems/0048/solution.py) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [C++](./problems/0049/solution.cpp) / [Python](./problems/0049/solution.py) | Array, Hash Table, String, Sorting |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [C++](./problems/0053/solution.cpp) | Array, Divide and Conquer, Dynamic Programming |
