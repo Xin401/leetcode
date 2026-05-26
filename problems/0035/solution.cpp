@@ -1,10 +1,9 @@
-#include <iostream>
 #include <vector>
 using namespace std;
 
 class Solution {
  public:
-  int search(vector<int>& nums, int target) {
+  int searchInsert(vector<int>& nums, int target) {
     int left = 0;
     int right = nums.size() - 1;
 
@@ -19,7 +18,6 @@ class Solution {
         right = mid - 1;
       }
     }
-
-    return -1;
+    return left;
   }
 };

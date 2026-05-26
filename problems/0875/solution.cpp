@@ -1,52 +1,39 @@
-#include <algorithm>
+#include <cmath>
 #include <iostream>
 #include <vector>
-#include <cmath>
 using namespace std;
 
-class Solution
-{
-    // binary search
-public:
-    int minEatingSpeed(vector<int> &piles, int h)
-    {
-        sort(piles.begin(), piles.end());
-        int ret;
-        int l = 1, r = piles[piles.size() - 1];
-        int k;   // bananas per hour
-        int cnt; // hour for current k
-        while (l <= r)
-        {
-            cnt = h;
-            k = (l + r) / 2;
-            for (auto &v : piles)
-            {
-                cnt -= ceil(v / static_cast<double>(k));
-            }
-            cout << '\n';
-            if (cnt >= 0)
-            {
-                ret = k;
-                r = k - 1;
-            }
-            else
-            {
-                l = k + 1;
-            }
-        }
-        return ret;
+class Solution {
+ public:
+  long long count_hour(const vector<int>& piles, const int speed) {
+    long long h = 0;
+    for (const auto& p : piles) {
+      h += (p + speed - 1) / speed;
     }
+    return h;
+  }
+  int minEatingSpeed(vector<int>& piles, int h) {
+    int left = 1;
+    int right = piles[0];
+    for (auto& p : piles) {
+      right = max(right, p);
+    }
+    while (left <= right) {
+      int mid = left + (right - left) / 2;
+      long long hours = this->count_hour(piles, mid);
+
+      if (hours <= h) {
+        right = mid - 1;
+      } else {
+        left = mid + 1;
+      }
+    }
+    return left;
+  }
 };
-int main()
-{
-    int h;
-    int N = 4;
-    vector<int> piles(N);
-    for (int i = 0; i < N; i++)
-    {
-        cin >> piles[i];
-    }
-    cin >> h;
-    Solution sol;
-    cout << sol.minEatingSpeed(piles, h);
+
+int main() {
+  vector<int> piles = {805306368, 805306368, 805306368};
+  Solution sol;
+  cout << sol.minEatingSpeed(piles, 1000000000);
 }
