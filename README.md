@@ -9,7 +9,9 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
-| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](./problems/0033/solution.cpp) | Array, Binary Search |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](./problems/0033/solution.cpp) / [Python](./problems/0033/solution.py) | Array, Binary Search |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [C++](./problems/0034/solution.cpp) / [Python](./problems/0034/solution.py) | Array, Binary Search |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [C++](./problems/0035/solution.cpp) / [Python](./problems/0035/solution.py) | Array, Binary Search |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [C++](./problems/0036/solution.cpp) / [Python](./problems/0036/solution.py) | Array, Hash Table, Matrix |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [C++](./problems/0039/solution.cpp) | Array, Backtracking |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [C++](./problems/0048/solution.cpp) / [Python](./problems/0048/solution.py) | Array, Math, Matrix |
@@ -32,7 +34,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
-| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](./problems/0153/solution.cpp) | Array, Binary Search |
+| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](./problems/0153/solution.cpp) / [Python](./problems/0153/solution.py) | Array, Binary Search |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
 | 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](./problems/0165/solution.py) | Two Pointers, String |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [C++](./problems/0171/solution.cpp) | Math, String |
@@ -76,6 +78,7 @@
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [C++](./problems/0931/solution.cpp) | Array, Dynamic Programming, Matrix |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [C++](./problems/0944/solution.cpp) | Array, String |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Medium | [C++](./problems/0967/solution.cpp) | Backtracking, Breadth-First Search |
+| 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [C++](./problems/0981/solution.cpp) / [Python](./problems/0981/solution.py) | Hash Table, String, Binary Search, Design |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [C++](./problems/0997/solution.cpp) | Array, Hash Table, Graph Theory |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium | [C++](./problems/1035/solution.cpp) | Array, Dynamic Programming |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [C++](./problems/1046/solution.cpp) | Array, Heap (Priority Queue) |
