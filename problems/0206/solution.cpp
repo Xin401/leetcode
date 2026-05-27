@@ -9,25 +9,17 @@
  * };
  */
 class Solution {
-public:
-    ListNode* reverseList(ListNode* head) {
-        if(head==nullptr)
-        {
-            return head;
-        }
-        ListNode* builder = new ListNode();
-        ListNode* ans = builder;
-        vector<int> temp;
-        while(head!=nullptr)
-        {
-            temp.push_back(head->val);
-            head = head->next;
-        }
-        for(int i = temp.size()-1;i>=0;i--)
-        {
-            builder->next = new ListNode(temp[i]);
-            builder = builder->next;
-        }
-        return ans->next;
+ public:
+  ListNode* reverseList(ListNode* head) {
+    ListNode* prev = nullptr;
+    ListNode* curr = head;
+
+    while (curr != nullptr) {
+      ListNode* nextTemp = curr->next;
+      curr->next = prev;
+      prev = curr;
+      curr = nextTemp;
     }
+    return prev;
+  }
 };
