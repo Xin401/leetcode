@@ -39,7 +39,7 @@
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
 | 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](./problems/0165/solution.py) | Two Pointers, String |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [C++](./problems/0171/solution.cpp) | Math, String |
-| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C++](./problems/0206/solution.cpp) | Linked List, Recursion |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C++](./problems/0206/solution.cpp) / [Python](./problems/0206/solution.py) | Linked List, Recursion |
 | 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [C++](./problems/0216/solution.cpp) | Array, Backtracking |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](./problems/0217/solution.cpp) / [Python](./problems/0217/solution.py) | Array, Hash Table, Sorting |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [C++](./problems/0232/solution.cpp) | Stack, Design, Queue |
