@@ -8,6 +8,7 @@
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [C++](./problems/0004/solution.cpp) / [Python](./problems/0004/solution.py) | Array, Binary Search, Divide and Conquer |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [C++](./problems/0011/solution.cpp) / [Python](./problems/0011/solution.py) | Array, Two Pointers, Greedy |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C++](./problems/0021/solution.cpp) / [Python](./problems/0021/solution.py) | Linked List, Recursion |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](./problems/0033/solution.cpp) / [Python](./problems/0033/solution.py) | Array, Binary Search |
@@ -34,6 +35,7 @@
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [C++](./problems/0138/solution.cpp) | Hash Table, Linked List |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) / [Python](./problems/0141/solution.py) | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
+| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [C++](./problems/0143/solution.cpp) / [Python](./problems/0143/solution.py) | Linked List, Two Pointers, Stack, Recursion |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](./problems/0153/solution.cpp) / [Python](./problems/0153/solution.py) | Array, Binary Search |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
