@@ -27,6 +27,9 @@ class LinkedListTemplates {
     ListNode* slow = head;
     ListNode* fast = head;
 
+    // 偶數長度停在左中點:
+    // while (fast.next != nullptr && fast->next->next != nullptr)
+    // 偶數長度停在右中點:
     while (fast != nullptr && fast->next != nullptr) {
       slow = slow->next;
       fast = fast->next->next;

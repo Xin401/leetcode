@@ -28,6 +28,9 @@ class Solution:
     def findMiddle(self, head: ListNode) -> ListNode:
         slow = fast = head
 
+        # 偶數長度停在左中點:
+        # while fast.next and fast.next.next
+        # 偶數長度停在右中點:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
