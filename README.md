@@ -7,6 +7,7 @@
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [C++](./problems/0002/solution.cpp) | Linked List, Math, Recursion |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [C++](./problems/0004/solution.cpp) / [Python](./problems/0004/solution.py) | Array, Binary Search, Divide and Conquer |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [C++](./problems/0011/solution.cpp) / [Python](./problems/0011/solution.py) | Array, Two Pointers, Greedy |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [C++](./problems/0019/solution.cpp) / [Python](./problems/0019/solution.py) | Linked List, Two Pointers |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C++](./problems/0021/solution.cpp) / [Python](./problems/0021/solution.py) | Linked List, Recursion |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
