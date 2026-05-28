@@ -9,20 +9,14 @@
  * };
  */
 class Solution {
-public:
-    ListNode* middleNode(ListNode* head) {
-        int length = 0;
-        ListNode* temp = head;
-        while(head->next!=nullptr)
-        {
-            head = head->next;
-            length++;
-        }
-        length = (length+1)/2;
-        for(int i = 0;i<length;i++)
-        {
-            temp = temp->next;
-        }
-        return temp;
+ public:
+  ListNode* middleNode(ListNode* head) {
+    ListNode* fast = head;
+    ListNode* slow = head;
+    while (fast != nullptr && fast->next != nullptr) {
+      slow = slow->next;
+      fast = fast->next->next;
     }
+    return slow;
+  }
 };
