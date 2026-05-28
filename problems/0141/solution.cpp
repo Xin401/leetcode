@@ -7,21 +7,18 @@
  * };
  */
 class Solution {
-public:
-    bool hasCycle(ListNode *head) {
-        ListNode * now;
-        now = head;
-        while(now!=NULL)
-        {
-           
-            now->val = 100001;
-            now = now->next;
-            if(now!=NULL&&now->val==100001)
-            {
-                return true;
-            }
-            
-        }
-        return false;
+ public:
+  bool hasCycle(ListNode* head) {
+    ListNode* slow = head;
+    ListNode* fast = head;
+
+    while (fast != nullptr && fast->next != nullptr) {
+      slow = slow->next;
+      fast = fast->next->next;
+      if (fast == slow) {
+        return true;
+      }
     }
+    return false;
+  }
 };
