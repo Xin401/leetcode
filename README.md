@@ -70,7 +70,7 @@
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [C++](./problems/0814/solution.cpp) | Tree, Depth-First Search, Binary Tree |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) / [Python](./problems/0875/solution.py) | Array, Binary Search |
-| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) | Linked List, Two Pointers |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) / [Python](./problems/0876/solution.py) | Linked List, Two Pointers |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [C++](./problems/0923/solution.cpp) | Array, Hash Table, Two Pointers, Sorting, Counting |
