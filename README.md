@@ -37,6 +37,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) / [Python](./problems/0141/solution.py) | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [C++](./problems/0143/solution.cpp) / [Python](./problems/0143/solution.py) | Linked List, Two Pointers, Stack, Recursion |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [C++](./problems/0146/solution.cpp) / [Python](./problems/0146/solution.py) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](./problems/0153/solution.cpp) / [Python](./problems/0153/solution.py) | Array, Binary Search |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
