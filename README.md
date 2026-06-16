@@ -30,6 +30,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [C++](./problems/0083/solution.cpp) | Linked List |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [C++](./problems/0094/solution.cpp) | Stack, Tree, Depth-First Search, Binary Tree |
+| 104 | [Unknown](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | - | [C++](./problems/104/solution.cpp) / [Python](./problems/104/solution.py) |  |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [C++](./problems/0121/solution.cpp) | Array, Dynamic Programming |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [C++](./problems/0122/solution.cpp) | Array, Dynamic Programming, Greedy |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [C++](./problems/0128/solution.cpp) / [Python](./problems/0128/solution.py) | Array, Hash Table, Union-Find |
@@ -76,7 +77,7 @@
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) / [Python](./problems/0875/solution.py) | Array, Binary Search |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) / [Python](./problems/0876/solution.py) | Linked List, Two Pointers |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
-| 0918 | [Unknown](https://leetcode.com/problems/maximum-sum-circular-subarray/) | - | [C++](./problems/0918/solution.cpp) |  |
+| 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [C++](./problems/0923/solution.cpp) | Array, Hash Table, Two Pointers, Sorting, Counting |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium | [C++](./problems/0926/solution.cpp) | String, Dynamic Programming |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [C++](./problems/0930/solution.cpp) | Array, Hash Table, Sliding Window, Prefix Sum |
