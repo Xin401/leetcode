@@ -30,6 +30,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [C++](./problems/0083/solution.cpp) | Linked List |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [C++](./problems/0094/solution.cpp) | Stack, Tree, Depth-First Search, Binary Tree |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [C++](./problems/0102/solution.cpp) / [Python](./problems/0102/solution.py) | Tree, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [C++](./problems/0104/solution.cpp) / [Python](./problems/0104/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [C++](./problems/0121/solution.cpp) | Array, Dynamic Programming |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [C++](./problems/0122/solution.cpp) | Array, Dynamic Programming, Greedy |
@@ -37,10 +38,10 @@
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [C++](./problems/0138/solution.cpp) | Hash Table, Linked List |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) / [Python](./problems/0141/solution.py) | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
-| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [C++](./problems/0143/solution.cpp) / [Python](./problems/0143/solution.py) | Linked List, Two Pointers, Stack, Recursion |
+| 0143 | [Unknown](https://leetcode.com/problems/reorder-list/) | - | [C++](./problems/0143/solution.cpp) / [Python](./problems/0143/solution.py) |  |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [C++](./problems/0146/solution.cpp) / [Python](./problems/0146/solution.py) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
-| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](./problems/0153/solution.cpp) / [Python](./problems/0153/solution.py) | Array, Binary Search |
+| 0153 | [Unknown](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | - | [C++](./problems/0153/solution.cpp) / [Python](./problems/0153/solution.py) |  |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [C++](./problems/0155/solution.cpp) / [Python](./problems/0155/solution.py) | Stack, Design |
 | 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](./problems/0165/solution.py) | Two Pointers, String |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [C++](./problems/0171/solution.cpp) | Math, String |
