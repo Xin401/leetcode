@@ -47,6 +47,7 @@
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [C++](./problems/0206/solution.cpp) / [Python](./problems/0206/solution.py) | Linked List, Recursion |
 | 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [C++](./problems/0216/solution.cpp) | Array, Backtracking |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](./problems/0217/solution.cpp) / [Python](./problems/0217/solution.py) | Array, Hash Table, Sorting |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [C++](./problems/0226/solution.cpp) / [Python](./problems/0226/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [C++](./problems/0232/solution.cpp) | Stack, Design, Queue |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [C++](./problems/0237/solution.cpp) | Linked List |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [C++](./problems/0238/solution.cpp) / [Python](./problems/0238/solution.py) | Array, Prefix Sum |
