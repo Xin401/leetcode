@@ -21,22 +21,32 @@ using namespace std;
 //       : val(x), left(left), right(right) {}
 // };
 class Solution {
+ private:
+  bool dfsPostOrder(TreeNode* node, TreeNode* p, TreeNode* q, TreeNode*& res) {
+    if (node == nullptr) return false;
+
+    bool left =
+        node->val < p->val ? false : dfsPostOrder(node->left, p, q, res);
+    bool right =
+        node->val > q->val ? false : dfsPostOrder(node->right, p, q, res);
+    if (left || right) {
+      if (node == p || node == q || (left && right)) {
+        res = node;
+      }
+      return true;
+    } else if (node == p || node == q) {
+      return true;
+    }
+    return false;
+  }
+
  public:
   TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-    int low = min(p->val, q->val);
-    int high = max(p->val, q->val);
-
-    TreeNode* cur = root;
-    while (cur != nullptr) {
-      if (cur->val < low) {
-        cur = cur->right;
-      } else if (cur->val > high) {
-        cur = cur->left;
-      } else {
-        return cur;
-      }
+    TreeNode* res = nullptr;
+    if (p->val > q->val) {
+      swap(p, q);
     }
-
-    return nullptr;
+    dfsPostOrder(root, p, q, res);
+    return res;
   }
 };
