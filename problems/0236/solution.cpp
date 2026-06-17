@@ -10,27 +10,23 @@
 
 class Solution {
  private:
-  bool dfsPostOrder(TreeNode* node, TreeNode* p, TreeNode* q, TreeNode*& res) {
-    if (node == nullptr) return false;
+  TreeNode* dfsPostOrder(TreeNode* node, TreeNode* p, TreeNode* q) {
+    if (node == nullptr) return nullptr;
 
-    bool left = dfsPostOrder(node->left, p, q, res);
-    bool right = dfsPostOrder(node->right, p, q, res);
-    if (left || right) {
-      if ((left && right) || (node->val == p->val || node->val == q->val)) {
-        res = node;
-      }
-      return true;
-    }
+    TreeNode* left = dfsPostOrder(node->left, p, q);
+    TreeNode* right = dfsPostOrder(node->right, p, q);
+
     if (node->val == p->val || node->val == q->val) {
-      return true;
+      return node;
     }
-    return false;
+    if (left != nullptr && right != nullptr) {
+      return node;
+    }
+    return left ? left : right;
   }
 
  public:
   TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-    TreeNode* res;
-    dfsPostOrder(root, p, q, res);
-    return res;
+    return dfsPostOrder(root, p, q);
   }
 };
