@@ -52,6 +52,7 @@
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [C++](./problems/0226/solution.cpp) / [Python](./problems/0226/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [C++](./problems/0232/solution.cpp) | Stack, Design, Queue |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [C++](./problems/0235/solution.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [C++](./problems/0236/solution.cpp) / [Python](./problems/0236/solution.py) | Tree, Depth-First Search, Binary Tree |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [C++](./problems/0237/solution.cpp) | Linked List |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [C++](./problems/0238/solution.cpp) / [Python](./problems/0238/solution.py) | Array, Prefix Sum |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](./problems/0242/solution.cpp) / [Python](./problems/0242/solution.py) | Hash Table, String, Sorting |
