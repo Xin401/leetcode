@@ -1,44 +1,28 @@
-#include <iostream>
-#include <set>
 #include <vector>
 using namespace std;
-
 class Solution {
- public:
-  void backtrack(set<vector<int>>& ret, vector<int>& candidates,
-                 int current_val, vector<int> current_vec, int target) {
-    if (current_val == target) {
-      sort(current_vec.begin(), current_vec.end());
-      ret.insert(current_vec);
+ private:
+  void backtrack(vector<int>& candidates, int target, vector<int>& path,
+                 int pathSum, vector<vector<int>>& res, int startIndex) {
+    if (pathSum == target) {
+      res.push_back(path);
       return;
-    } else if (current_val > target) {
+    } else if (pathSum > target) {
       return;
-    } else {
-      for (auto& v : candidates) {
-        vector<int> tmp = current_vec;
-        tmp.push_back(v);
-        backtrack(ret, candidates, current_val + v, tmp, target);
-      }
+    }
+
+    for (int i = startIndex; i < candidates.size(); i++) {
+      path.push_back(candidates[i]);
+      backtrack(candidates, target, path, pathSum + candidates[i], res, i);
+      path.pop_back();
     }
   }
-  vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-    set<vector<int>> ret;
-    vector<vector<int>> uni_ret;
-    backtrack(ret, candidates, 0, {}, target);
-    for (auto& vec : ret) {
-      uni_ret.push_back(vec);
-      for (auto& v : vec) {
-        cout << v << ',';
-      }
-      cout << endl;
-    }
 
-    return uni_ret;
+ public:
+  vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+    vector<int> path;
+    vector<vector<int>> res;
+    backtrack(candidates, target, path, 0, res, 0);
+    return res;
   }
 };
-
-int main() {
-  Solution sol;
-  vector<int> candidates = {2, 5, 6, 9};
-  sol.combinationSum(candidates, 9);
-}
