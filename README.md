@@ -16,7 +16,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [C++](./problems/0034/solution.cpp) / [Python](./problems/0034/solution.py) | Array, Binary Search |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [C++](./problems/0035/solution.cpp) / [Python](./problems/0035/solution.py) | Array, Binary Search |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [C++](./problems/0036/solution.cpp) / [Python](./problems/0036/solution.py) | Array, Hash Table, Matrix |
-| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [C++](./problems/0039/solution.cpp) | Array, Backtracking |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [C++](./problems/0039/solution.cpp) / [Python](./problems/0039/solution.py) | Array, Backtracking |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [C++](./problems/0046/solution.cpp) / [Python](./problems/0046/solution.py) | Array, Backtracking |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [C++](./problems/0048/solution.cpp) / [Python](./problems/0048/solution.py) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [C++](./problems/0049/solution.cpp) / [Python](./problems/0049/solution.py) | Array, Hash Table, String, Sorting |
