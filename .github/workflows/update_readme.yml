@@ -41,7 +41,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-        changed_problems=$(git diff --name-only -- 'problems/**' | awk -F/ '/^problems\// {print $2}' | sort -u | tr '\n' ',' | sed 's/,$//')
+        changed_problems=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'problems/**' | awk -F/ '/^problems\// {print $2}' | sort -u | tr '\n' ',' | sed 's/,$//')
 
         # 檢查 README.md 是否有變動
         if [[ -n $(git status -s) ]]; then
