@@ -40,18 +40,12 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-        changed_problems=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'problems/**' | awk -F/ '/^problems\// {print $2}' | sort -u | tr '\n' ',' | sed 's/,$//')
-
+        
         # 檢查 README.md 是否有變動
         if [[ -n $(git status -s) ]]; then
           echo "Changes detected. Committing..."
           git add README.md
-          if [[ -n "$changed_problems" ]]; then
-            git commit -m "Auto-update README with latest LeetCode progress: ${changed_problems}"
-          else
-            git commit -m "Auto-update README with latest LeetCode progress"
-          fi
+          git commit -m "Auto-update README with latest LeetCode progress"
           git push
         else
           echo "No changes to commit."
