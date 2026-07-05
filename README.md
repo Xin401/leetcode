@@ -98,6 +98,7 @@
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [C++](./problems/0997/solution.cpp) | Array, Hash Table, Graph Theory |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium | [C++](./problems/1035/solution.cpp) | Array, Dynamic Programming |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [C++](./problems/1046/solution.cpp) | Array, Heap (Priority Queue) |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [C++](./problems/1091/solution.cpp) / [Python](./problems/1091/solution.py) | Array, Breadth-First Search, Matrix |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Medium | [Python](./problems/1110/solution.py) | Array, Hash Table, Tree, Depth-First Search, Binary Tree |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [C++](./problems/1128/solution.cpp) / [Python](./problems/1128/solution.py) | Array, Hash Table, Counting |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [C++](./problems/1137/solution.cpp) | Math, Dynamic Programming, Memoization |
