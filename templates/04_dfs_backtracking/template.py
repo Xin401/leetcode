@@ -31,9 +31,7 @@ class Solution:
         backtrack()
         return res
 
-    # ==========================================
-    # 模板二：二維網格 DFS (Number of Islands)
-    # ==========================================
+    # 2D
 
     def grid_dfs_template(self, grid: List[List[str]], r: int, c: int):
         # 1. 越界與條件檢查
