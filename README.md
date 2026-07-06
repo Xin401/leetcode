@@ -95,6 +95,7 @@
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [C++](./problems/0944/solution.cpp) | Array, String |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Medium | [C++](./problems/0967/solution.cpp) | Backtracking, Breadth-First Search |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [C++](./problems/0981/solution.cpp) / [Python](./problems/0981/solution.py) | Hash Table, String, Binary Search, Design |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [C++](./problems/0994/solution.cpp) / [Python](./problems/0994/solution.py) | Array, Breadth-First Search, Matrix |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [C++](./problems/0997/solution.cpp) | Array, Hash Table, Graph Theory |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium | [C++](./problems/1035/solution.cpp) | Array, Dynamic Programming |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [C++](./problems/1046/solution.cpp) | Array, Heap (Priority Queue) |
