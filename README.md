@@ -71,6 +71,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [C++](./problems/0347/solution.cpp) / [Python](./problems/0347/solution.py) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [C++](./problems/0410/solution.cpp) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Python](./problems/0506/solution.py) | Array, Sorting, Heap (Priority Queue) |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [C++](./problems/0542/solution.cpp) | Array, Dynamic Programming, Breadth-First Search, Matrix |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Medium | [C++](./problems/0606/solution.cpp) | String, Tree, Depth-First Search, Binary Tree |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Python](./problems/0648/solution.py) | Array, Hash Table, String, Trie |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [C++](./problems/0682/solution.cpp) | Array, Stack, Simulation |
@@ -151,4 +152,5 @@
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | [C++](./problems/3342/solution.cpp) / [Python](./problems/3342/solution.py) | Array, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | [C++](./problems/3392/solution.cpp) / [Python](./problems/3392/solution.py) | Array |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | [Python](./problems/3507/solution.py) | Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | [C++](./problems/3658/solution.cpp) / [Python](./problems/3658/solution.py) | Math, Number Theory |
 | 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium | [C++](./problems/3742/solution.cpp) | Array, Dynamic Programming, Matrix |
