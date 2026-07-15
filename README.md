@@ -71,7 +71,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [C++](./problems/0347/solution.cpp) / [Python](./problems/0347/solution.py) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [C++](./problems/0410/solution.cpp) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Python](./problems/0506/solution.py) | Array, Sorting, Heap (Priority Queue) |
-| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [C++](./problems/0542/solution.cpp) | Array, Dynamic Programming, Breadth-First Search, Matrix |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [C++](./problems/0542/solution.cpp) / [Python](./problems/0542/solution.py) | Array, Dynamic Programming, Breadth-First Search, Matrix |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Medium | [C++](./problems/0606/solution.cpp) | String, Tree, Depth-First Search, Binary Tree |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Python](./problems/0648/solution.py) | Array, Hash Table, String, Trie |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [C++](./problems/0682/solution.cpp) | Array, Stack, Simulation |
