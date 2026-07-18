@@ -127,6 +127,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [C++](./problems/1700/solution.cpp) | Array, Stack, Queue, Simulation |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [C++](./problems/1721/solution.cpp) | Linked List, Two Pointers |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Python](./problems/1863/solution.py) | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | [C++](./problems/1979/solution.cpp) / [Python](./problems/1979/solution.py) | Array, Math, Number Theory |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium | [C++](./problems/1996/solution.cpp) | Array, Stack, Greedy, Sorting, Monotonic Stack |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | [C++](./problems/2000/solution.cpp) | Two Pointers, String, Stack |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | [C++](./problems/2033/solution.cpp) / [Python](./problems/2033/solution.py) | Array, Math, Sorting, Matrix |
