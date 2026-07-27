@@ -32,7 +32,7 @@
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [C++](./problems/0081/solution.cpp) | Array, Binary Search |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [C++](./problems/0083/solution.cpp) | Linked List |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
-| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [C++](./problems/0094/solution.cpp) | Stack, Tree, Depth-First Search, Binary Tree |
+| 0094 | [Unknown](https://leetcode.com/problems/binary-tree-inorder-traversal/) | - | [C++](./problems/0094/solution.cpp) |  |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [C++](./problems/0098/solution.cpp) / [Python](./problems/0098/solution.py) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [C++](./problems/0102/solution.cpp) / [Python](./problems/0102/solution.py) | Tree, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [C++](./problems/0104/solution.cpp) / [Python](./problems/0104/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -118,6 +118,7 @@
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | [Python](./problems/1395/solution.py) | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | [Python](./problems/1404/solution.py) | String, Bit Manipulation, Simulation |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [C++](./problems/1457/solution.cpp) | Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | [C++](./problems/1464/solution.cpp) / [Python](./problems/1464/solution.py) | Array, Sorting, Heap (Priority Queue) |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | [C++](./problems/1498/solution.cpp) | Array, Two Pointers, Binary Search, Sorting |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy | [C++](./problems/1502/solution.cpp) | Array, Sorting |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | [Python](./problems/1530/solution.py) | Tree, Depth-First Search, Binary Tree |
