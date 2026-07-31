@@ -32,7 +32,7 @@
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [C++](./problems/0081/solution.cpp) | Array, Binary Search |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [C++](./problems/0083/solution.cpp) | Linked List |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./problems/0088/solution.cpp) | Array, Two Pointers, Sorting |
-| 0094 | [Unknown](https://leetcode.com/problems/binary-tree-inorder-traversal/) | - | [C++](./problems/0094/solution.cpp) |  |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [C++](./problems/0094/solution.cpp) | Stack, Tree, Depth-First Search, Binary Tree |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [C++](./problems/0098/solution.cpp) / [Python](./problems/0098/solution.py) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [C++](./problems/0102/solution.cpp) / [Python](./problems/0102/solution.py) | Tree, Breadth-First Search, Binary Tree |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [C++](./problems/0104/solution.cpp) / [Python](./problems/0104/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -148,7 +148,8 @@
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium | [Python](./problems/2816/solution.py) | Linked List, Math, Stack |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | [C++](./problems/2962/solution.cpp) / [Python](./problems/2962/solution.py) | Array, Sliding Window |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium | [C++](./problems/2997/solution.cpp) | Array, Bit Manipulation |
-| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | [Python](./problems/3016/solution.py) | Hash Table, String, Greedy, Sorting, Counting |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | [C++](./problems/3014/solution.cpp) | Math, String, Greedy |
+| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | [C++](./problems/3016/solution.cpp) / [Python](./problems/3016/solution.py) | Hash Table, String, Greedy, Sorting, Counting |
 | 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [Python](./problems/3075/solution.py) | Array, Greedy, Sorting |
 | 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | Medium | [Python](./problems/3315/solution.py) | Array, Bit Manipulation |
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | [C++](./problems/3342/solution.cpp) / [Python](./problems/3342/solution.py) | Array, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path |
