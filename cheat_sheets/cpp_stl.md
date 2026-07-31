@@ -14,12 +14,12 @@ int sum = accumulate(v.begin(), v.end(), 0); // 陣列加總 (需 #include <nume
 int max_val = *max_element(v.begin(), v.end()); // 找最大值
 ```
 
-## 2. Unordered Map / Set
+## 2. Map / Set
 
 時間複雜度：平均 O(1)
 
 ```cpp
-unordered_map<int, int> mp;
+map<int, int, greater<int>> mp; // key從大到小排序(預設是 less<int>)
 unordered_set<int> st;
 
 // 檢查 Key 是否存在
