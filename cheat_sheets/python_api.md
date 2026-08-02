@@ -37,7 +37,7 @@ st.discard(val)                       # 若 val 不存在不會報錯
 # Iteration
 for k, v in mp.items(): ...
 
-# 特殊模組 (極好用)
+# 特殊模組
 from collections import defaultdict, Counter
 freq = Counter(arr)                   # 直接計算陣列中各元素出現次數
 adj = defaultdict(list)               # 若 key 不存在，預設值為空陣列 [] (Graph 常用)
