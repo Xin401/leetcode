@@ -40,6 +40,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [C++](./problems/0122/solution.cpp) | Array, Dynamic Programming, Greedy |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [C++](./problems/0124/solution.cpp) / [Python](./problems/0124/solution.py) | Dynamic Programming, Tree, Depth-First Search, Binary Tree |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [C++](./problems/0128/solution.cpp) / [Python](./problems/0128/solution.py) | Array, Hash Table, Union-Find |
+| 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [C++](./problems/0133/solution.cpp) / [Python](./problems/0133/solution.py) | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [C++](./problems/0138/solution.cpp) | Hash Table, Linked List |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) / [Python](./problems/0141/solution.py) | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
@@ -87,6 +88,7 @@
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) / [Python](./problems/0875/solution.py) | Array, Binary Search |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) / [Python](./problems/0876/solution.py) | Linked List, Two Pointers |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [C++](./problems/0877/solution.cpp) | Array, Math, Dynamic Programming, Game Theory |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [C++](./problems/0923/solution.cpp) | Array, Hash Table, Two Pointers, Sorting, Counting |
