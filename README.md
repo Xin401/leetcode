@@ -9,9 +9,9 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [C++](./problems/0011/solution.cpp) / [Python](./problems/0011/solution.py) | Array, Two Pointers, Greedy |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [C++](./problems/0017/solution.cpp) / [Python](./problems/0017/solution.py) | Hash Table, String, Backtracking |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [C++](./problems/0019/solution.cpp) / [Python](./problems/0019/solution.py) | Linked List, Two Pointers |
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [C++](./problems/0020/solution.cpp) / [Python](./problems/0020/solution.py) | String, Stack, Bracket Sequences |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C++](./problems/0021/solution.cpp) / [Python](./problems/0021/solution.py) | Linked List, Recursion |
-| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](./problems/0022/solution.cpp) / [Python](./problems/0022/solution.py) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./problems/0024/solution.cpp) | Linked List, Recursion |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](./problems/0033/solution.cpp) / [Python](./problems/0033/solution.py) | Array, Binary Search |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [C++](./problems/0034/solution.cpp) / [Python](./problems/0034/solution.py) | Array, Binary Search |
@@ -38,12 +38,12 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [C++](./problems/0104/solution.cpp) / [Python](./problems/0104/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [C++](./problems/0121/solution.cpp) | Array, Dynamic Programming |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [C++](./problems/0122/solution.cpp) | Array, Dynamic Programming, Greedy |
-| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [C++](./problems/0124/solution.cpp) / [Python](./problems/0124/solution.py) | Dynamic Programming, Tree, Depth-First Search, Binary Tree |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [C++](./problems/0124/solution.cpp) / [Python](./problems/0124/solution.py) | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [C++](./problems/0128/solution.cpp) / [Python](./problems/0128/solution.py) | Array, Hash Table, Union-Find |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [C++](./problems/0133/solution.cpp) / [Python](./problems/0133/solution.py) | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [C++](./problems/0138/solution.cpp) | Hash Table, Linked List |
-| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) / [Python](./problems/0141/solution.py) | Hash Table, Linked List, Two Pointers |
-| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [C++](./problems/0141/solution.cpp) / [Python](./problems/0141/solution.py) | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./problems/0142/solution.cpp) | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [C++](./problems/0143/solution.cpp) / [Python](./problems/0143/solution.py) | Linked List, Two Pointers, Stack, Recursion |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [C++](./problems/0146/solution.cpp) / [Python](./problems/0146/solution.py) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [C++](./problems/0150/solution.cpp) / [Python](./problems/0150/solution.py) | Array, Math, Stack |
@@ -57,21 +57,21 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](./problems/0217/solution.cpp) / [Python](./problems/0217/solution.py) | Array, Hash Table, Sorting |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [C++](./problems/0226/solution.cpp) / [Python](./problems/0226/solution.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [C++](./problems/0232/solution.cpp) | Stack, Design, Queue |
-| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [C++](./problems/0235/solution.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
-| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [C++](./problems/0236/solution.cpp) / [Python](./problems/0236/solution.py) | Tree, Depth-First Search, Binary Tree |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [C++](./problems/0235/solution.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree, Binary Lifting, Lowest Common Ancestor |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [C++](./problems/0236/solution.cpp) / [Python](./problems/0236/solution.py) | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [C++](./problems/0237/solution.cpp) | Linked List |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [C++](./problems/0238/solution.cpp) / [Python](./problems/0238/solution.py) | Array, Prefix Sum |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](./problems/0242/solution.cpp) / [Python](./problems/0242/solution.py) | Hash Table, String, Sorting |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [Python](./problems/0260/solution.py) | Array, Bit Manipulation |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](./problems/0268/solution.cpp) | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [C++](./problems/0271/solution.cpp) / [Python](./problems/0271/solution.py) | Array, String, Design |
-| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [C++](./problems/0287/solution.cpp) / [Python](./problems/0287/solution.py) | Array, Two Pointers, Binary Search, Bit Manipulation |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [C++](./problems/0287/solution.cpp) / [Python](./problems/0287/solution.py) | Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [C++](./problems/0310/solution.cpp) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [C++](./problems/0338/solution.cpp) | Dynamic Programming, Bit Manipulation |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C++](./problems/0344/solution.cpp) | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [C++](./problems/0347/solution.cpp) / [Python](./problems/0347/solution.py) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [C++](./problems/0410/solution.cpp) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
-| 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Python](./problems/0506/solution.py) | Array, Sorting, Heap (Priority Queue) |
+| 0506 | [Unknown](https://leetcode.com/problems/relative-ranks/) | - | [Python](./problems/0506/solution.py) |  |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [C++](./problems/0542/solution.cpp) / [Python](./problems/0542/solution.py) | Array, Dynamic Programming, Breadth-First Search, Matrix |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Medium | [C++](./problems/0606/solution.cpp) | String, Tree, Depth-First Search, Binary Tree |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Python](./problems/0648/solution.py) | Array, Hash Table, String, Trie |
@@ -83,19 +83,19 @@
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [C++](./problems/0739/solution.cpp) / [Python](./problems/0739/solution.py) | Array, Stack, Monotonic Stack |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [C++](./problems/0766/solution.cpp) | Array, Matrix |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | Medium | [C++](./problems/0791/solution.cpp) | Hash Table, String, Sorting |
-| 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Python](./problems/0802/solution.py) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
+| 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Python](./problems/0802/solution.py) | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm |
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [C++](./problems/0814/solution.cpp) | Tree, Depth-First Search, Binary Tree |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) / [Python](./problems/0875/solution.py) | Array, Binary Search |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) / [Python](./problems/0876/solution.py) | Linked List, Two Pointers |
-| 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [C++](./problems/0877/solution.cpp) | Array, Math, Dynamic Programming, Game Theory |
+| 0877 | [Unknown](https://leetcode.com/problems/stone-game/) | - | [C++](./problems/0877/solution.cpp) |  |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [C++](./problems/0923/solution.cpp) | Array, Hash Table, Two Pointers, Sorting, Counting |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium | [C++](./problems/0926/solution.cpp) | String, Dynamic Programming |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [C++](./problems/0930/solution.cpp) | Array, Hash Table, Sliding Window, Prefix Sum |
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [C++](./problems/0931/solution.cpp) | Array, Dynamic Programming, Matrix |
-| 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [C++](./problems/0944/solution.cpp) | Array, String |
+| 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [C++](./problems/0944/solution.cpp) | Array, String, Longest Increasing Subsequence |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Medium | [C++](./problems/0967/solution.cpp) | Backtracking, Breadth-First Search |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [C++](./problems/0981/solution.cpp) / [Python](./problems/0981/solution.py) | Hash Table, String, Binary Search, Design |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [C++](./problems/0994/solution.cpp) / [Python](./problems/0994/solution.py) | Array, Breadth-First Search, Matrix |
@@ -156,6 +156,7 @@
 | 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | Medium | [Python](./problems/3315/solution.py) | Array, Bit Manipulation |
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | [C++](./problems/3342/solution.cpp) / [Python](./problems/3342/solution.py) | Array, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | [C++](./problems/3392/solution.cpp) / [Python](./problems/3392/solution.py) | Array |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | [C++](./problems/3471/solution.cpp) / [Python](./problems/3471/solution.py) | Array, Hash Table |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | [Python](./problems/3507/solution.py) | Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | [C++](./problems/3514/solution.cpp) / [Python](./problems/3514/solution.py) | Array, Math, Bit Manipulation, Enumeration |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | [C++](./problems/3536/solution.cpp) / [Python](./problems/3536/solution.py) | Math, Sorting |
