@@ -71,7 +71,7 @@
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C++](./problems/0344/solution.cpp) | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [C++](./problems/0347/solution.cpp) / [Python](./problems/0347/solution.py) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [C++](./problems/0410/solution.cpp) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
-| 0506 | [Unknown](https://leetcode.com/problems/relative-ranks/) | - | [Python](./problems/0506/solution.py) |  |
+| 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | [Python](./problems/0506/solution.py) | Array, Sorting, Heap (Priority Queue) |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [C++](./problems/0542/solution.cpp) / [Python](./problems/0542/solution.py) | Array, Dynamic Programming, Breadth-First Search, Matrix |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Medium | [C++](./problems/0606/solution.cpp) | String, Tree, Depth-First Search, Binary Tree |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [Python](./problems/0648/solution.py) | Array, Hash Table, String, Trie |
@@ -88,7 +88,7 @@
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [C++](./problems/0838/solution.cpp) / [Python](./problems/0838/solution.py) | Two Pointers, String, Dynamic Programming |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [C++](./problems/0875/solution.cpp) / [Python](./problems/0875/solution.py) | Array, Binary Search |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./problems/0876/solution.cpp) / [Python](./problems/0876/solution.py) | Linked List, Two Pointers |
-| 0877 | [Unknown](https://leetcode.com/problems/stone-game/) | - | [C++](./problems/0877/solution.cpp) |  |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [C++](./problems/0877/solution.cpp) | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [C++](./problems/0901/solution.cpp) | Stack, Design, Monotonic Stack, Data Stream |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [C++](./problems/0918/solution.cpp) | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [C++](./problems/0923/solution.cpp) | Array, Hash Table, Two Pointers, Sorting, Counting |
@@ -152,6 +152,7 @@
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium | [C++](./problems/2997/solution.cpp) | Array, Bit Manipulation |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | [C++](./problems/3014/solution.cpp) | Math, String, Greedy |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | [C++](./problems/3016/solution.cpp) / [Python](./problems/3016/solution.py) | Hash Table, String, Greedy, Sorting, Counting |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | [C++](./problems/3069/solution.cpp) / [Python](./problems/3069/solution.py) | Array, Simulation |
 | 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | [Python](./problems/3075/solution.py) | Array, Greedy, Sorting |
 | 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | Medium | [Python](./problems/3315/solution.py) | Array, Bit Manipulation |
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | [C++](./problems/3342/solution.cpp) / [Python](./problems/3342/solution.py) | Array, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path |
