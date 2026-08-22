@@ -161,5 +161,6 @@
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | [Python](./problems/3507/solution.py) | Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | [C++](./problems/3514/solution.cpp) / [Python](./problems/3514/solution.py) | Array, Math, Bit Manipulation, Enumeration |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | [C++](./problems/3536/solution.cpp) / [Python](./problems/3536/solution.py) | Math, Sorting |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | [C++](./problems/3622/solution.cpp) / [Python](./problems/3622/solution.py) | Math |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | [C++](./problems/3658/solution.cpp) / [Python](./problems/3658/solution.py) | Math, Number Theory |
 | 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium | [C++](./problems/3742/solution.cpp) | Array, Dynamic Programming, Matrix |
