@@ -164,4 +164,5 @@
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | [C++](./problems/3536/solution.cpp) / [Python](./problems/3536/solution.py) | Math, Sorting |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | [C++](./problems/3622/solution.cpp) / [Python](./problems/3622/solution.py) | Math |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | [C++](./problems/3658/solution.cpp) / [Python](./problems/3658/solution.py) | Math, Number Theory |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [C++](./problems/3718/solution.cpp) / [Python](./problems/3718/solution.py) | Array, Hash Table |
 | 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium | [C++](./problems/3742/solution.cpp) | Array, Dynamic Programming, Matrix |
