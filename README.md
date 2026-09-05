@@ -167,3 +167,4 @@
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | [C++](./problems/3658/solution.cpp) / [Python](./problems/3658/solution.py) | Math, Number Theory |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [C++](./problems/3718/solution.cpp) / [Python](./problems/3718/solution.py) | Array, Hash Table |
 | 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium | [C++](./problems/3742/solution.cpp) | Array, Dynamic Programming, Matrix |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | [C++](./problems/3904/solution.cpp) / [Python](./problems/3904/solution.py) | Array, Prefix Sum |
